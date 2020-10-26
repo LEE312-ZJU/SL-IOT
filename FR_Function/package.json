@@ -1,0 +1,19 @@
+{
+  "name": "oss_cam_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.9",
+    "co": "^4.6.0",
+    "crypto": "^1.0.1",
+    "request": "^2.88.2",
+    "tablestore": "^5.0.7",
+    "url": "^0.11.0"
+  }
+}
